@@ -10,9 +10,9 @@ Learning objectives:
 
 
 ## Approach
-After reviewing the provided "Tech to Learn" materials, I decided to build my site following the basic structure from the Code Along (Noops Clone). I picked a subject for my periodical and dived in!	After reviewing the provided "Tech to Learn" materials, I decided to build my site following the basic structure from the Code Along (Noops Clone). I picked a subject for my periodical and dived in!
+After reviewing the provided "Tech to Learn" materials, I decided to build my site following the basic structure from the Code Along (Noops Clone). I picked a subject for my periodical and dived in!
 
-If I had more time, I would continue tinkering and make each card flip over with the name of each cloud type like flash cards. 	If I had more time, I would change the 10 cloud type cards to have them flip over with the name of each type so they could be used like flash cards. 
+If I had more time, I would change the 10 cloud type cards to have them flip over with the name of each type so they could be used like flash cards. 
 
 
 ## Core Tech
