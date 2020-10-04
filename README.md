@@ -21,7 +21,7 @@ If I had more time, I would change the 10 cloud type cards to have them flip ove
 - Flexbox
 - Mobile-First approach 
 
-## Requirements Completed
+## Completed Requirements
 🔵 Blue Level
 - Style your page.
 - Use flexbox to layout the page.
