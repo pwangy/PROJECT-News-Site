@@ -33,5 +33,5 @@ If I had more time, I would change the 10 cloud type cards to have them flip ove
 - Align the cards to the center of the page
 
 
-## See it live
+## View it live
 https://pwangy-news.netlify.app/
