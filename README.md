@@ -22,7 +22,7 @@ If I had more time, I would change the 10 cloud type cards to have them flip ove
 - Mobile-First approach 
 
 ## Requirements Completed
-🔵 Blue Level (Minimum)
+🔵 Blue Level
 - Style your page.
 - Use flexbox to layout the page.
 - Create a responsive design with the following views; Desktop 4 columns, tablet 2 columns, mobile 1 column.
