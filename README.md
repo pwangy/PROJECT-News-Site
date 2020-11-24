@@ -1,5 +1,5 @@
 # News Site - Overview
-Project done as a part of Technigo bootcamp.
+Week 2 project for Technigo 24 week bootcamp.
 
 Create a classic magazine or newspaper site. 
 
@@ -10,10 +10,9 @@ Learning objectives:
 
 
 ## Approach
-After reviewing the provided "Tech to Learn" materials, I decided to build my site following the basic structure from the Code Along (Noops Clone). I picked a subject for my periodical and dived in!
+I chose information from the International Cloud Atlas and cloud watching as the theme of my news/periodical site. The code along for this week left me with a healthy head start on this project so I continued on with styling, playing with flexbox and populating my cloud cards with information. 
 
 If I had more time, I would change the 10 cloud type cards to have them flip over with the name of each type so they could be used like flash cards. 
-
 
 ## Core Tech
 - HTML5
