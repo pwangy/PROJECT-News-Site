@@ -21,14 +21,14 @@ If I had more time, I would change the 10 cloud type cards to have them flip ove
 - Mobile-First approach 
 
 ## Completed Requirements
-🔵 Blue Level
+🔵  Blue Level
 - Style your page.
 - Use flexbox to layout the page.
 - Create a responsive design with the following views; Desktop 4 columns, tablet 2 columns, mobile 1 column.
 - The site should have a header, a main news article, a grid of news articles.
 - Play around with hover effects, i.e. change colors, add or remove borders or flip the image upside down.
 
-🔴 Red Level (Intermediary Goals)
+🔴  Red Level (Intermediary Goals)
 - Align the cards to the center of the page
 
 
